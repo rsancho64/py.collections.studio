@@ -2,9 +2,9 @@
 
 There are four collection data types in the Python programming language:
 
-|   collection   |           sintax            | nature                                         | allows duplicate? |
-|:--------------:|:---------------------------:|:-----------------------------------------------|:-----------------:|
-|    **list**    |        `**[**, ...**]**`    | _ordered_, _changeable_, _indexed_.            |       yes.        |
-|   **tuple**    |        `**(**, ...**)**`    | _ordered_, **UNchangeable**, _indexed_.        |       yes.        |
-|    **set**     |            `¿...?`          | **UNordered**, **UNchangeable**, **UNindexed** |      **NO**.      |
-| **dictionary** | `**{**:, ...**}**`          | _ordered_, _changeable_                        |      **NO**.      |
+|   collection   |       sintax       | nature (changeable? order? indexation?         | allows dups? |
+|:--------------:|:------------------:|:-----------------------------------------------|:------------:|
+|    **list**    | `**[**, ...**]**`  | _changeable_, _ordered_, , _indexed_.          |     yes.     |
+| **dictionary** | `**{**:, ...**}**` | _changeable_, _ordered_,                       |   **NO**.    |
+|   **tuple**    | `**(**, ...**)**`  | **UNchangeable**, _ordered_,  _indexed_.       |     yes.     |
+|    **set**     |      `¿...?`       | **UNordered**, **UNchangeable**, **UNindexed** |   **NO**.    |
