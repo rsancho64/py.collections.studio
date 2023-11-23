@@ -7,4 +7,4 @@ There are four collection data types in the Python programming language:
 |    **list**    | `[, ...]`  | _changeable_, _ordered_, , _indexed_.          |     yes.     |
 | **dictionary** | `{:, ...}` | _changeable_, _ordered_,                       |   **NO**.    |
 |   **tuple**    | `**(**, ...**)**`  | **UNchangeable**, _ordered_,  _indexed_.       |     yes.     |
-|    **set**     |      `{:, ...}`       | **UNordered**, **UNchangeable**, **UNindexed** |   **NO**.    |
+|    **set**     |      `{, ...}`       | **UNordered**, **UNchangeable**, **UNindexed** |   **NO**.    |
